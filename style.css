@@ -1,0 +1,22 @@
+body
+{
+  color: black;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #image
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+
+.heading 
+{
+  font-size:18px;
+  letter-spacing: 10px;
+  border-radius:10px;
+}
